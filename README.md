@@ -12,6 +12,7 @@ Cohort and Temporal Variations: Analyzing monthly cohorts reveals that different
 Geographical Segmentation: Filtering via the Country slicer clearly highlights primary markets driving the highest volume of repeat purchases, compared to regions where acquisition is high but repeat engagement is weaker.
  
  ### Repository Structure
+ ```text
 ├── Data
 | ├── online_retail.csv                   # Source dataset, downloaded from: https://www.kaggle.com/datasets/thedevastator/online-retail-transaction-data/code
 | ├── clean_cata.csv                      # Clean source dataset 
